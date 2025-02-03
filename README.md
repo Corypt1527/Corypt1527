@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm Cory!
+<a href="[https://linkedin.com](https://www.linkedin.com/in/cory-tremblay-02077a333/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Corypt1527/Corypt1527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a military veteran with a profound interest in technology and a dedication to solving complex problems. 
 
-Here are some ideas to get you started:
+## Objective
+My journey in the military has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=raspberry-pi&logoColor=red" />
+
+</div>
+
+### Virtual Machines
+<div>
+  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=blue" />
+
+<div>
+
+### Endpoint
+<div>
+  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Business-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" /> 
+
+</div>
+
+## Working On
+<div>
+  <img src="https://img.shields.io/badge/CCST%20Cybersecurity-2E4C6D?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
