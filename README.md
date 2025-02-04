@@ -10,21 +10,27 @@ My journey in the military has led me to develop a passion for cybersecurity, an
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /> 
    <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=raspberry-pi&logoColor=red" />
+   <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=sql&logoColor=white" />
 
 </div>
 
 ### Virtual Machines
 <div>
-  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=blue" />
+   <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=blue" />
 
 <div>
 
 ### Endpoint
 <div>
   <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Business-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" /> 
+
+</div>
+
+### SIEM
+</div>
+   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 </div>
 
