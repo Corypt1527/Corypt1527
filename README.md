@@ -1,5 +1,7 @@
 # Hello, I'm Cory!
-<a href="[https://linkedin.com](https://www.linkedin.com/in/cory-tremblay-02077a333/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cory-tremblay-02077a333/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am a military veteran with a profound interest in technology and a dedication to solving complex problems. 
 
