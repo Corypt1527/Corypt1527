@@ -26,7 +26,7 @@ My journey in the military has led me to develop a passion for cybersecurity, an
 
 ### Endpoint
 <div>
-  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Business-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft%20Defender-Security-lightblue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender Badge" />
 
 </div>
 
