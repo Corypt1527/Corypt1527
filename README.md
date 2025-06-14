@@ -10,10 +10,12 @@ My journey in the military has led me to develop a passion for cybersecurity, I 
 
 ## Skills
 
-### Network
+### Networking
 <div>
    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /> 
+<div>
    <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=raspberry-pi&logoColor=red" />
+<div>
    <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=sql&logoColor=white" />
 
 </div>
@@ -47,5 +49,6 @@ My journey in the military has led me to develop a passion for cybersecurity, I 
 ### In Progress
 <div>
   <img src="https://img.shields.io/badge/KU-A.S.%20Info%20Tech-004a99?style=for-the-badge&logo=academia&logoColor=white" />
+<div>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
