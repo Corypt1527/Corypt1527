@@ -3,10 +3,10 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a military veteran with a profound interest in technology and a dedication to solving complex problems. 
+I am a military veteran as well as a current student at Keiser University with a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective
-My journey in the military has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the military has led me to develop a passion for cybersecurity, I am now eager to transition into a career in this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
@@ -22,7 +22,7 @@ My journey in the military has led me to develop a passion for cybersecurity, an
 <div>
    <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=blue" />
 
-<div>
+</div>
 
 ### Endpoint
 <div>
@@ -31,13 +31,18 @@ My journey in the military has led me to develop a passion for cybersecurity, an
 </div>
 
 ### SIEM
-</div>
+<div>
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 </div>
 
-## Working On
+## Certifications
 <div>
   <img src="https://img.shields.io/badge/CCST%20Cybersecurity-2E4C6D?style=for-the-badge&logo=security&logoColor=white" />
+  
+</div>
+
+## Working On
+<div>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
