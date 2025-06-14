@@ -46,6 +46,6 @@ My journey in the military has led me to develop a passion for cybersecurity, I 
 
 ### In Progress
 <div>
-  <img src="https://img.shields.io/badge/Keiser%20University-004a99?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/KU-A.S.%20Info%20Tech-004a99?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
