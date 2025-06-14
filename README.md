@@ -36,13 +36,16 @@ My journey in the military has led me to develop a passion for cybersecurity, I 
 
 </div>
 
-## Certifications
+## Education & Certifications
+
+### Current
 <div>
   <img src="https://img.shields.io/badge/CCST%20Cybersecurity-2E4C6D?style=for-the-badge&logo=security&logoColor=white" />
   
 </div>
 
-## Working On
+### In Progress
 <div>
+  <img src="https://img.shields.io/badge/Keiser%20University-004a99?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
