@@ -1,6 +1,10 @@
 # Hello, I'm Cory!
 <a href="https://www.linkedin.com/in/corypetertremblay/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://corypt1527.github.io/mywebsite/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
 </a>
 
 I am a military veteran as well as a current student at Keiser University with a profound interest in technology and a dedication to solving complex problems. 
