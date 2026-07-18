@@ -27,7 +27,9 @@ My journey in the military has led me to develop a passion for cybersecurity, I 
 ### Virtual Machines
 <div>
    <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=blue" />
-
+</div>
+  <img src="https://img.shields.io/badge/VMware-Workstation%20Pro-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  
 </div>
 
 ### Endpoint
@@ -47,12 +49,15 @@ My journey in the military has led me to develop a passion for cybersecurity, I 
 ### Current
 <div>
   <img src="https://img.shields.io/badge/CCST%20Cybersecurity-2E4C6D?style=for-the-badge&logo=security&logoColor=white" />
-  
+<div>
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
+   
 </div>
 
 ### In Progress
 <div>
-  <img src="https://img.shields.io/badge/KU-A.S.%20Info%20Tech-004a99?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/KU-B.S.%20Info%20Tech-004a99?style=for-the-badge&logo=academia&logoColor=white" />
 <div>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  
 </div>
